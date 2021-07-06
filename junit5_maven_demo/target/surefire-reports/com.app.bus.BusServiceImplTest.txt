@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: com.app.bus.BusServiceImplTest
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 2, Errors: 0, Skipped: 0, Time elapsed: 0.026 s <<< FAILURE! - in com.app.bus.BusServiceImplTest
+testGetBusesByRatings  Time elapsed: 0.017 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Not yet implemented
+	at com.app.bus.BusServiceImplTest.testGetBusesByRatings(BusServiceImplTest.java:60)
+
+testGetBusesByCost  Time elapsed: 0 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Not yet implemented
+	at com.app.bus.BusServiceImplTest.testGetBusesByCost(BusServiceImplTest.java:55)
+
